@@ -1,2 +1,0 @@
-# repository-pancake
-GitHub Repository
